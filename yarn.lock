@@ -2091,12 +2091,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/material-symbols@npm:^1.2.95":
-  version: 1.2.95
-  resolution: "@iconify-json/material-symbols@npm:1.2.95"
+"@iconify-json/material-symbols@npm:^1.2.97":
+  version: 1.2.97
+  resolution: "@iconify-json/material-symbols@npm:1.2.97"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/0018ed65d14d56d7cb1447f024a179ca430254017080cc65fe2a5be074763fe951a8e9da6e553fa681bca5d7cca81c23469a11cf5859554b030f0eb5db86f91f
+  checksum: 10c0/32f6c202b14040289d96de742921579dd90d91b1f68eb27724edd1796f77b1202e7b60973c73ba9099db57d14958ce555178de5e9c3b1ea471bc28205e80ae03
   languageName: node
   linkType: hard
 
@@ -7933,7 +7933,7 @@ __metadata:
   dependencies:
     "@fontsource-variable/inter": "npm:^5.3.0"
     "@iconify-json/ic": "npm:^1.2.4"
-    "@iconify-json/material-symbols": "npm:^1.2.95"
+    "@iconify-json/material-symbols": "npm:^1.2.97"
     "@iconify-json/material-symbols-light": "npm:^1.2.96"
     "@iconify-json/solar": "npm:^1.2.13"
     "@isaacs/ttlcache": "npm:^2.1.5"
