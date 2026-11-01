@@ -29,7 +29,7 @@
   "devDependencies": {
     "@iconify-json/ic": "^1.2.4",
     "@iconify-json/material-symbols": "^1.2.95",
-    "@iconify-json/material-symbols-light": "^1.2.96",
+    "@iconify-json/material-symbols-light": "^1.2.98",
     "@iconify-json/solar": "^1.2.13",
     "@nuxt/icon": "^2.5.1",
     "@nuxtjs/color-mode": "^4.0.1",
