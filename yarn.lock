@@ -2082,12 +2082,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/material-symbols-light@npm:^1.2.96":
-  version: 1.2.96
-  resolution: "@iconify-json/material-symbols-light@npm:1.2.96"
+"@iconify-json/material-symbols-light@npm:^1.2.98":
+  version: 1.2.98
+  resolution: "@iconify-json/material-symbols-light@npm:1.2.98"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/c14de852590f5913a20b296c87c3b0745f3df7c8136c4074fdd8e65914ffdbca850ba565a42cf4b26ff177247cbf5ad20caa7abad2298f5f127991904f4f31a2
+  checksum: 10c0/c6be4371b6f1ad1f1b76a9a43d5073aa109124f88631e47814488048e74c42fa2fa6031872c5f0686ff2d805f2430e68779518b2016458cb0a45f5185c8cd3be
   languageName: node
   linkType: hard
 
@@ -7934,7 +7934,7 @@ __metadata:
     "@fontsource-variable/inter": "npm:^5.3.0"
     "@iconify-json/ic": "npm:^1.2.4"
     "@iconify-json/material-symbols": "npm:^1.2.95"
-    "@iconify-json/material-symbols-light": "npm:^1.2.96"
+    "@iconify-json/material-symbols-light": "npm:^1.2.98"
     "@iconify-json/solar": "npm:^1.2.13"
     "@isaacs/ttlcache": "npm:^2.1.5"
     "@nuxt/icon": "npm:^2.5.1"
